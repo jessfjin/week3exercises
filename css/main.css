@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+}
+
+ul {
+	background-color: salmon;
+	text-align: center;
+
+}
+li {
+	display: inline-block;
+	padding: 20px;
+}
+a:hover {
+	background-color: yellow;
+}
+
+.travel {
+	border: 2px solid blue;
+	text-align: center;
+	background-color: purple; 
+	color: white;
+}
